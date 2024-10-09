@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## What I did additionaly
+
+코드로 기록되지 않은 행동들을 기록함
+
+1. Installed Tailwind extension
+2. Installed ES7+ extension
+   - component 파일 생성할 때마다 rafce 단축어를 사용해서 빠르게 내용 채움
+
+## 한계점?
+
+1. app/globals.css 와 tailwind.config.ts 는 next 공부에 집중하기 위해 완전 복붙했음...
